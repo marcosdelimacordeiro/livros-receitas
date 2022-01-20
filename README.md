@@ -1,5 +1,7 @@
 # Livro de Receitas :man_cook: 
 
-Óla ! Bem Vindo ao meu livro de receitas:cake:
+Olá ! Bem Vindo ao meu livro de receitas:cake:
 
 - Strogonoff de Frango.
+
+- Pavê 
